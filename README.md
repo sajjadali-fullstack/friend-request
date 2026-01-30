@@ -11,8 +11,12 @@ This project demonstrates how a friend request system works using basic **DOM ma
 ---
 
 ## 🖼️ Project Preview
-![Friend Request Preview](./friend-req-s.png)
-![Friend Request Preview](./friend-r-f.png)
+
+### ➕ Request Sent
+![Friend Request Sent](./friend-req-s.png)
+
+### ❌ Request Cancelled
+![Friend Request Cancelled](./friend-r-f.png)
 
 ---
 
